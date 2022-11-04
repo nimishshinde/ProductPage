@@ -1,0 +1,78 @@
+
+const data = [
+  {
+    id: 1,
+    img: "https://rukminim1.flixcart.com/image/426/511/l33cia80/t-shirt/j/x/6/m-hs9688-adidas-original-imageah9gx3yhz68.jpeg?q=50",
+    price: 100,
+    size: "M",
+    brand: "Addidas",
+    gender: "Men",
+    name: "Tshirt for men",
+  },
+  {
+    id: 2,
+    img: "https://rukminim1.flixcart.com/image/426/511/xif0q/t-shirt/6/u/z/s-aq3211-010-nike-original-imafpdw3arnhzvzw-bb.jpeg?q=50",
+    price: 200,
+    size: "S",
+    brand: "Nike",
+    gender: "Women",
+    name: "Tshirt for women",
+  },
+  {
+    id: 3,
+    img: "https://rukminim1.flixcart.com/image/832/832/xif0q/track-pant/b/x/c/xs-ro4121-peony-rosaline-by-zivame-original-imaggg67kbc54dtb.jpeg?q=70",
+    price: 300,
+    size: "L",
+    brand: "Reebok",
+    gender: "Women",
+    name: "Lower for women",
+  },
+  {
+    id: 4,
+    img: "https://rukminim1.flixcart.com/image/832/832/xif0q/track-pant/s/f/v/36-tp01-black-q-rious-original-imagayrbjhshbpfq-bb.jpeg?q=70",
+    price: 400,
+    size: "XL",
+    brand: "Nike",
+    gender: "Women",
+    name: "Lower for women",
+  },
+  {
+    id: 5,
+    img: "https://rukminim1.flixcart.com/image/426/511/ku2zjww0/t-shirt/a/o/y/s-dd6943-010-nike-original-imag7a2v8tfh2e8h.jpeg?q=50",
+    price: 500,
+    size: "M",
+    brand: "Nike",
+    gender: "Women",
+    name: "Tshirt for women",
+  },
+
+  {
+    id: 6,
+    img: "https://rukminim1.flixcart.com/image/426/511/l1tmf0w0/t-shirt/z/q/0/xs-hf4906-adidas-originals-original-imagdazfh5dkugsq.jpeg?q=50",
+    price: 600,
+    size: "M",
+    brand: "Addidas",
+    gender: "Men",
+    name: "Tshirt for men",
+  },
+  {
+    id: 7,
+    img: "https://rukminim1.flixcart.com/image/426/511/xif0q/t-shirt/v/c/a/m-hi0658-reebok-original-imaghgy34ymza5tv.jpeg?q=50",
+    price: 700,
+    size: "XL",
+    brand: "Reebok",
+    gender: "Men",
+    name: "Tshirt for men",
+  },
+  {
+    id: 8,
+    img: "https://rukminim1.flixcart.com/image/426/511/xif0q/t-shirt/k/n/w/xs-he4823-adidas-original-imaghgzp5yrqzkyd.jpeg?q=50",
+    price: 800,
+    size: "S",
+    brand: "Addidas",
+    gender: "Men",
+    name: "Tshirt for men",
+  },
+];
+
+export default data;

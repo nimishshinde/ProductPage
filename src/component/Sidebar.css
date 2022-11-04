@@ -1,0 +1,24 @@
+.sidebarmain{
+   width: 22vw;
+   border-right: 1px solid grey ;
+}
+
+.option{
+   padding: 10px;
+   font: 12px;
+   font-weight: 500;
+}
+
+.optionBtn{
+   border: 1px solid grey;
+   padding: 10px;
+   width: 8rem;
+   margin: 5px;
+   border-radius: 6px; 
+   font-weight: 400;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   cursor: pointer;
+
+}

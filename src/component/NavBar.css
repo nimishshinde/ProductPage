@@ -1,0 +1,15 @@
+.navmain {
+   box-sizing: border-box;
+   width: 98vw;
+   background-color: #0C73EB;
+   padding: 10px;
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+}
+
+.btnstyle {
+   width: 3rem;
+   margin: 5px;
+   padding: 5px;
+}
